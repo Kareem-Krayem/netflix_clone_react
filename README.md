@@ -8,7 +8,7 @@ download and clone the project
 
 you need to run the following commands:
 
-    cd netflix_clone_react
+    cd netflix_clone
 
     npm install
 
