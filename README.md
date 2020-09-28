@@ -1,5 +1,9 @@
 # netflix_clone_react
 
+This is a DEMO
+
+![Alt text](./DEMO.JPG?raw=true 'NETFLIX-CLONE-REACT')
+
 # First Step
 
 download and clone the project
