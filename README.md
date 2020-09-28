@@ -2,7 +2,7 @@
 
 This is a DEMO
 
-![Alt text](./DEMO.JPG?raw=true 'NETFLIX-CLONE-REACT')
+![Alt text](./DEMO.jpg?raw=true 'NETFLIX-CLONE-REACT')
 
 # First Step
 
